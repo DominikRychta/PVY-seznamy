@@ -94,10 +94,6 @@ table {
     border-collapse: collapse;
 }
 
-tbody {
-    background-color: #ffffff;
-}
-
 tbody td:nth-child(3),
 tbody td:nth-child(4),
 tbody td:nth-child(5),
